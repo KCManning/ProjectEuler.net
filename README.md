@@ -9,3 +9,5 @@ Project - Date Began - Date Completed
 1) Multiples of 3 and 5 - 8/18/15 - 8/18/15
 
 2) Even Fibinaaci Numbers - 8/23/15 - 8/23/15
+
+3) (Project started, but due to loss of eyeglasses coding is on a temporary hiatus until new pair arrives)
